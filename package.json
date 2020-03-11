@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/madbence/node-drawille-canvas",
   "dependencies": {
-    "bresenham": "0.0.3",
+    "bresenham": "0.0.4",
     "drawille": "^1.1.0",
     "earcut": "^2.1.1",
     "gl-matrix": "^2.1.0"
